@@ -21,7 +21,9 @@ Here are the amazing contributors behind these projects!
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kelven14"><img src="https://github.com/Kelven14.png" width="100px;" alt=""/><br /><sub><b>Kelven Brandão</b></sub></a><br />
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lunpessoa"><img src="https://github.com/lunpessoa.png" width="100px;" alt=""/><br /><sub><b>Luan Pessoa</b></sub></a><br />
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ThiagoBD"><img src="https://github.com/ThiagoBD.png" width="100px;" alt=""/><br /><sub><b>Thiago Dias</b></sub></a><br />
     </tr>
   </tbody>
 </table>
