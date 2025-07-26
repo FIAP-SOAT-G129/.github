@@ -4,12 +4,15 @@ This organization hosts the projects developed during the Software Architecture 
 
 | Tech Challenge |       Group      | Repositories | Goal |
 | -------------- | ---------------- | ------------ | ---- |
-| 1  | 129  | [API]() | DDD + Hex Arch + API + Docker |
+| 1  | 129  | [Fast Food 1](https://github.com/FIAP-SOAT-G129/fastfood-fase1) | DDD + Hex Arch + API + Docker |
+| 2  | 129  | [Fast Food 2](https://github.com/FIAP-SOAT-G129/fastfood-fase2) | Clean Arch + K8s + Helm |
 
 ## 💻 Tech Stack:
 
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4169E1)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230077B5?style=for-the-badge&logo=helm&logoColor=white)
 ![Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=for-the-badge&logo=githubactions&color=222222)
 ![Swagger](https://img.shields.io/badge/Tools-Swagger-informational?style=for-the-badge&logo=swagger&color=85EA2D)
 ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&color=FF6C37)
