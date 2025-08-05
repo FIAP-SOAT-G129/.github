@@ -5,7 +5,7 @@ This organization hosts the projects developed during the Software Architecture 
 | Tech Challenge |       Group      | Repositories | Goal |
 | -------------- | ---------------- | ------------ | ---- |
 | 1  | 129  | [Fast Food 1](https://github.com/FIAP-SOAT-G129/fastfood-fase1) | DDD + Hex Arch + API + Docker |
-| 2  | 129  | [Fast Food 2](https://github.com/FIAP-SOAT-G129/fastfood-fase2) | Clean Arch + K8s + Helm |
+| 2  | 224  | [Fast Food 2](https://github.com/FIAP-SOAT-G129/fastfood-fase2) | Clean Arch + K8s + Helm |
 
 ## 💻 Tech Stack:
 
