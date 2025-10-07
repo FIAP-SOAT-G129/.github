@@ -10,7 +10,7 @@ Este repositório reúne os projetos desenvolvidos durante a pós-graduação em
 | ---- | ----- | ------------ | -------- | ---- |
 | 1️⃣ | 129 | [Fast Food - Fase 1](https://github.com/FIAP-SOAT-G129/fastfood-fase1) | **DDD + Arquitetura Hexagonal + API + Docker** | [📖 Wiki Fase 1](https://github.com/FIAP-SOAT-G129/.github/wiki/Fase-1) |
 | 2️⃣ | 224 | [Fast Food - Fase 2](https://github.com/FIAP-SOAT-G129/fastfood-fase2) | **Clean Architecture + Kubernetes + Helm** | [📖 Wiki Fase 2](https://github.com/FIAP-SOAT-G129/.github/wiki/Fase-2) |
-| 3️⃣ | 129 | [Infra Foundation](https://github.com/FIAP-SOAT-G129/infra-foundation-fase3)<br/>[Infra Database](https://github.com/FIAP-SOAT-G129/infra-database-fase3)<br/>[API Gateway + Lambda](https://github.com/FIAP-SOAT-G129/infra-apigateway-lambda)<br/>[Fast Food - Fase 3](https://github.com/FIAP-SOAT-G129/fastfood-fase3) | **Infraestrutura como Código (Terraform) + Cloud + Pipelines CI/CD** | [📖 Wiki Fase 3](https://github.com/FIAP-SOAT-G129/.github/wiki/Fase-3) |
+| 3️⃣ | 129 | [Infra Foundation](https://github.com/FIAP-SOAT-G129/infra-foundation-fase3)<br/>[Infra Database](https://github.com/FIAP-SOAT-G129/infra-database-fase3)<br/>[API Gateway + Lambda](https://github.com/FIAP-SOAT-G129/infra-apigateway-lambda)<br/>[Infra EKS + ECR](https://github.com/FIAP-SOAT-G129/infra-eks-fase3)<br/>[Fast Food - Fase 3](https://github.com/FIAP-SOAT-G129/fastfood-fase3) | **Infraestrutura como Código (Terraform) + Cloud + Pipelines CI/CD** | [📖 Wiki Fase 3](https://github.com/FIAP-SOAT-G129/.github/wiki/Fase-3) |
 
 ---
 
